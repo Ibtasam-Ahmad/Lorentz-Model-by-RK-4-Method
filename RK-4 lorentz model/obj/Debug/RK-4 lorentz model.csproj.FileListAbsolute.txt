@@ -1,0 +1,20 @@
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\bin\Debug\RK-4 lorentz model.exe.config
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\bin\Debug\RK-4 lorentz model.exe
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\bin\Debug\RK-4 lorentz model.pdb
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.csprojResolveAssemblyReference.cache
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK_4_lorentz_model.Form1.resources
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK_4_lorentz_model.Properties.Resources.resources
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.csproj.GenerateResource.Cache
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.exe
+Z:\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\bin\Debug\RK-4 lorentz model.exe.config
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\bin\Debug\RK-4 lorentz model.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\bin\Debug\RK-4 lorentz model.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK_4_lorentz_model.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK_4_lorentz_model.Properties.Resources.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\7 semester\Computational Physics Lab 1\RK-4 lorentz model\RK-4 lorentz model\obj\Debug\RK-4 lorentz model.pdb
